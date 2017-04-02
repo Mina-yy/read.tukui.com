@@ -1,6 +1,6 @@
 # Summary
 
-## 《工作谈》第一章 
+## 《工作谈》ch1 好思想 坏思想
 ### 卡片
 * [术语卡](talkAboutWork_yang/ch1_thought/termCards.md)
 * [人名卡](talkAboutWork_yang/ch1_thought/peopleCards.md)
