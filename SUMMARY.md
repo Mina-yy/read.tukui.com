@@ -40,8 +40,7 @@
 		* [任意卡](The Presentation of Self in Everyday Life/freeCards.md) 
 	* 读书笔记
 		* [20170605卡片拼接](The Presentation of Self in Everyday Life/20170605review.md)
-	* 视觉笔记
-		* ![](The Presentation of Self in Everyday Life/visual.JPG) 
+		* [20170604视觉笔记](The Presentation of Self in Everyday Life/visual.JPG) 
 	
 * 《人情与面子》
  	* 全书卡片
