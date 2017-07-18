@@ -51,3 +51,61 @@
 		* [技巧卡](Favor and Face/tipCards.md)
 		* [金句卡](Favor and Face/mottoCards.md) 
 		* [任意卡](Favor and Face/freeCards.md)
+	* 读书笔记
+		* [20170609 从「人情与面子」看借钱](Favor and Face/20170609review.md)
+
+* 《人生脚本》
+	* 全书卡片
+		* [人名卡](What do u Say after u Say HELLO/peopleCards.md)
+		* [术语卡](What do u Say after u Say HELLO/termCards.md)
+		* [反常识卡](What do u Say after u Say HELLO/uncommonCards.md)
+		* [行动卡](What do u Say after u Say HELLO/actionCards.md)
+		* [技巧卡](What do u Say after u Say HELLO/tipCards.md)
+		* [金句卡](What do u Say after u Say HELLO/mottoCards.md) 
+		* [任意卡](What do u Say after u Say HELLO/freeCards.md)	
+	* 读书笔记
+		* [20170620视觉笔记](What do u Say after u Say HELLO/visual.JPG)
+		* [20170621你一生的脚本](What do u Say after u Say HELLO/20170621review.md)
+		* [20170621叛逃计划](What do u Say after u Say HELLO/20170621review2.md)
+
+* 《创造力》
+	* 第一部分 创造的过程 卡片
+		* [人名卡](Creativity/pa1_process/peopleCards.md)
+		* [术语卡](Creativity/pa1_process/termCards.md)
+		* [反常识卡](Creativity/pa1_process/uncommonCards.md)
+		* [行动卡](Creativity/pa1_process/actionCards.md)
+		* [技巧卡](Creativity/pa1_process/tipCards.md)
+		* [金句卡](Creativity/pa1_process/mottoCards.md) 
+		* [任意卡](Creativity/pa1_process/freeCards.md)
+
+* 《心智探奇》	
+	* ch7 心智能力4：社会关系 卡片
+		* [人名卡](How the Mind Works/ch7/peopleCards.md)
+		* [术语卡](How the Mind Works/ch7/termCards.md)
+		* [反常识卡](How the Mind Works/ch7/uncommonCards.md)
+		* [行动卡](How the Mind Works/ch7/actionCards.md)
+		* [技巧卡](How the Mind Works/ch7/tipCards.md)
+		* [金句卡](How the Mind Works/ch7/mottoCards.md) 
+		* [任意卡](How the Mind Works/ch7/freeCards.md)
+	* ch8 活出生命的意义 卡片
+		* [人名卡](How the Mind Works/ch8/peopleCards.md)
+		* [术语卡](How the Mind Works/ch8/termCards.md)
+		* [反常识卡](How the Mind Works/ch8/uncommonCards.md)
+		* [行动卡](How the Mind Works/ch8/actionCards.md)
+		* [技巧卡](How the Mind Works/ch8/tipCards.md)
+		* [金句卡](How the Mind Works/ch8/mottoCards.md) 
+		* [任意卡](How the Mind Works/ch8/freeCards.md)
+
+* 《查理芒格的智慧：投资的格栅理论》
+	* 全书卡片
+		* [人名卡](Latticework/peopleCards.md)
+		* [术语卡](Latticework/termCards.md)
+		* [反常识卡](Latticework/uncommonCards.md)
+		* [行动卡](Latticework/actionCards.md)
+		* [技巧卡](Latticework/tipCards.md)
+		* [金句卡](Latticework/mottoCards.md) 
+		* [任意卡](Latticework/freeCards.md) 
+	* 读书笔记：
+		* [20170709视觉笔记](Latticework/visual.JPG)
+		* [20170710 智慧的人如何思考](Latticework/20170710review.md)
+
