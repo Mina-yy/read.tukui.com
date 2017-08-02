@@ -40,7 +40,7 @@
 		* [任意卡](ThePresentationOfSelfInEverydayLife/freeCards.md) 
 	* 读书笔记
 		* [20170605卡片拼接](ThePresentationOfSelfInEverydayLife/20170605review.md)
-		* [20170604视觉笔记](ThePresentationOfSelfInEverydayLife/visual.JPG) 
+		* [20170604视觉笔记](ThePresentationOfSelfInEverydayLife/visualCards.md) 
 	
 * 《人情与面子》
  	* 全书卡片
@@ -64,7 +64,6 @@
 		* [金句卡](WhatDoYouSayAfterYouSayHELLO/mottoCards.md) 
 		* [任意卡](WhatDoYouSayAfterYouSayHELLO/freeCards.md)	
 	* 读书笔记
-		* [20170620视觉笔记](WhatDoYouSayAfterYouSayHELLO/visual.JPG)
 		* [20170621你一生的脚本](WhatDoYouSayAfterYouSayHELLO/20170621review.md)
 		* [20170621叛逃计划](WhatDoYouSayAfterYouSayHELLO/20170621review2.md)
 
@@ -106,6 +105,5 @@
 		* [金句卡](Latticework/mottoCards.md) 
 		* [任意卡](Latticework/freeCards.md) 
 	* 读书笔记：
-		* [20170709视觉笔记](Latticework/visual.JPG)
 		* [20170710 智慧的人如何思考](Latticework/20170710review.md)
 
