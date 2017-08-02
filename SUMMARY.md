@@ -11,62 +11,62 @@
 
 * 《这才是心理学》
 	* ch10&ch11卡片
-		* [人名卡](How to Think Straight about Psychology/ch10&ch11_probability/peopleCards.md)
-		* [术语卡](How to Think Straight about Psychology/ch10&ch11_probability/termCards.md)
-		* [反常识卡](How to Think Straight about Psychology/ch10&ch11_probability/uncommonCards.md)
-		* [行动卡](How to Think Straight about Psychology/ch10&ch11_probability/actionCards.md)
-		* [技巧卡](How to Think Straight about Psychology/ch10&ch11_probability/tipCards.md)
-		* [金句卡](How to Think Straight about Psychology/ch10&ch11_probability/mottoCards.md) 
-		* [任意卡](How to Think Straight about Psychology/ch10&ch11_probability/freeCards.md) 
+		* [人名卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/peopleCards.md)
+		* [术语卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/termCards.md)
+		* [反常识卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/uncommonCards.md)
+		* [行动卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/actionCards.md)
+		* [技巧卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/tipCards.md)
+		* [金句卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/mottoCards.md) 
+		* [任意卡](How2ThinkStraightAboutPsychology/ch10&ch11_probability/freeCards.md) 
 
 * 《态度改变与社会印象》
 	* ch1-ch3 卡片
-		* [人名卡](the psychology of attitude change and social influence/ch1-ch3/peopleCards.md)
-		* [术语卡](the psychology of attitude change and social influence/ch1-ch3/termCards.md)
-		* [反常识卡](the psychology of attitude change and social influence/ch1-ch3/uncommonCards.md)
-		* [行动卡](the psychology of attitude change and social influence/ch1-ch3/actionCards.md)
-		* [技巧卡](the psychology of attitude change and social influence/ch1-ch3/tipCards.md)
-		* [金句卡](the psychology of attitude change and social influence/ch1-ch3/mottoCards.md) 
-		* [任意卡](the psychology of attitude change and social influence/ch1-ch3/freeCards.md) 
+		* [人名卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/peopleCards.md)
+		* [术语卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/termCards.md)
+		* [反常识卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/uncommonCards.md)
+		* [行动卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/actionCards.md)
+		* [技巧卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/tipCards.md)
+		* [金句卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/mottoCards.md) 
+		* [任意卡](ThePsychologyOfAttitude ChangeAndSocialInfluence/ch1-ch3/freeCards.md) 
 
 * 《日常生活中的自我呈现》
 	* 全书卡片
-		* [人名卡](The Presentation of Self in Everyday Life/peopleCards.md)
-		* [术语卡](The Presentation of Self in Everyday Life/termCards.md)
-		* [反常识卡](The Presentation of Self in Everyday Life/uncommonCards.md)
-		* [行动卡](The Presentation of Self in Everyday Life/actionCards.md)
-		* [技巧卡](The Presentation of Self in Everyday Life/tipCards.md)
-		* [金句卡](The Presentation of Self in Everyday Life/mottoCards.md) 
-		* [任意卡](The Presentation of Self in Everyday Life/freeCards.md) 
+		* [人名卡](ThePresentationOfSelfInEverydayLife/peopleCards.md)
+		* [术语卡](ThePresentationOfSelfInEverydayLife/termCards.md)
+		* [反常识卡](ThePresentationOfSelfInEverydayLife/uncommonCards.md)
+		* [行动卡](ThePresentationOfSelfInEverydayLife/actionCards.md)
+		* [技巧卡](ThePresentationOfSelfInEverydayLife/tipCards.md)
+		* [金句卡](ThePresentationOfSelfInEverydayLife/mottoCards.md) 
+		* [任意卡](ThePresentationOfSelfInEverydayLife/freeCards.md) 
 	* 读书笔记
-		* [20170605卡片拼接](The Presentation of Self in Everyday Life/20170605review.md)
-		* [20170604视觉笔记](The Presentation of Self in Everyday Life/visual.JPG) 
+		* [20170605卡片拼接](ThePresentationOfSelfInEverydayLife/20170605review.md)
+		* [20170604视觉笔记](ThePresentationOfSelfInEverydayLife/visual.JPG) 
 	
 * 《人情与面子》
  	* 全书卡片
-		* [人名卡](Favor and Face/peopleCards.md)
-		* [术语卡](Favor and Face/termCards.md)
-		* [反常识卡](Favor and Face/uncommonCards.md)
-		* [行动卡](Favor and Face/actionCards.md)
-		* [技巧卡](Favor and Face/tipCards.md)
-		* [金句卡](Favor and Face/mottoCards.md) 
-		* [任意卡](Favor and Face/freeCards.md)
+		* [人名卡](FavorAndFace/peopleCards.md)
+		* [术语卡](FavorAndFace/termCards.md)
+		* [反常识卡](FavorAndFace/uncommonCards.md)
+		* [行动卡](FavorAndFace/actionCards.md)
+		* [技巧卡](FavorAndFace/tipCards.md)
+		* [金句卡](FavorAndFace/mottoCards.md) 
+		* [任意卡](FavorAndFace/freeCards.md)
 	* 读书笔记
-		* [20170609 从「人情与面子」看借钱](Favor and Face/20170609review.md)
+		* [20170609 从「人情与面子」看借钱](FavorAndFace/20170609review.md)
 
 * 《人生脚本》
 	* 全书卡片
-		* [人名卡](What do u Say after u Say HELLO/peopleCards.md)
-		* [术语卡](What do u Say after u Say HELLO/termCards.md)
-		* [反常识卡](What do u Say after u Say HELLO/uncommonCards.md)
-		* [行动卡](What do u Say after u Say HELLO/actionCards.md)
-		* [技巧卡](What do u Say after u Say HELLO/tipCards.md)
-		* [金句卡](What do u Say after u Say HELLO/mottoCards.md) 
-		* [任意卡](What do u Say after u Say HELLO/freeCards.md)	
+		* [人名卡](WhatDoYouSayAfterYouSayHELLO/peopleCards.md)
+		* [术语卡](WhatDoYouSayAfterYouSayHELLO/termCards.md)
+		* [反常识卡](WhatDoYouSayAfterYouSayHELLO/uncommonCards.md)
+		* [行动卡](WhatDoYouSayAfterYouSayHELLO/actionCards.md)
+		* [技巧卡](WhatDoYouSayAfterYouSayHELLO/tipCards.md)
+		* [金句卡](WhatDoYouSayAfterYouSayHELLO/mottoCards.md) 
+		* [任意卡](WhatDoYouSayAfterYouSayHELLO/freeCards.md)	
 	* 读书笔记
-		* [20170620视觉笔记](What do u Say after u Say HELLO/visual.JPG)
-		* [20170621你一生的脚本](What do u Say after u Say HELLO/20170621review.md)
-		* [20170621叛逃计划](What do u Say after u Say HELLO/20170621review2.md)
+		* [20170620视觉笔记](WhatDoYouSayAfterYouSayHELLO/visual.JPG)
+		* [20170621你一生的脚本](WhatDoYouSayAfterYouSayHELLO/20170621review.md)
+		* [20170621叛逃计划](WhatDoYouSayAfterYouSayHELLO/20170621review2.md)
 
 * 《创造力》
 	* 第一部分 创造的过程 卡片
@@ -80,21 +80,21 @@
 
 * 《心智探奇》	
 	* ch7 心智能力4：社会关系 卡片
-		* [人名卡](How the Mind Works/ch7/peopleCards.md)
-		* [术语卡](How the Mind Works/ch7/termCards.md)
-		* [反常识卡](How the Mind Works/ch7/uncommonCards.md)
-		* [行动卡](How the Mind Works/ch7/actionCards.md)
-		* [技巧卡](How the Mind Works/ch7/tipCards.md)
-		* [金句卡](How the Mind Works/ch7/mottoCards.md) 
-		* [任意卡](How the Mind Works/ch7/freeCards.md)
+		* [人名卡](HowTheMindWorks/ch7/peopleCards.md)
+		* [术语卡](HowTheMindWorks/ch7/termCards.md)
+		* [反常识卡](HowTheMindWorks/ch7/uncommonCards.md)
+		* [行动卡](HowTheMindWorks/ch7/actionCards.md)
+		* [技巧卡](HowTheMindWorks/ch7/tipCards.md)
+		* [金句卡](HowTheMindWorks/ch7/mottoCards.md) 
+		* [任意卡](HowTheMindWorks/ch7/freeCards.md)
 	* ch8 活出生命的意义 卡片
-		* [人名卡](How the Mind Works/ch8/peopleCards.md)
-		* [术语卡](How the Mind Works/ch8/termCards.md)
-		* [反常识卡](How the Mind Works/ch8/uncommonCards.md)
-		* [行动卡](How the Mind Works/ch8/actionCards.md)
-		* [技巧卡](How the Mind Works/ch8/tipCards.md)
-		* [金句卡](How the Mind Works/ch8/mottoCards.md) 
-		* [任意卡](How the Mind Works/ch8/freeCards.md)
+		* [人名卡](HowTheMindWorks/ch8/peopleCards.md)
+		* [术语卡](HowTheMindWorks/ch8/termCards.md)
+		* [反常识卡](HowTheMindWorks/ch8/uncommonCards.md)
+		* [行动卡](HowTheMindWorks/ch8/actionCards.md)
+		* [技巧卡](HowTheMindWorks/ch8/tipCards.md)
+		* [金句卡](HowTheMindWorks/ch8/mottoCards.md) 
+		* [任意卡](HowTheMindWorks/ch8/freeCards.md)
 
 * 《查理芒格的智慧：投资的格栅理论》
 	* 全书卡片
